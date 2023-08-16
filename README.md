@@ -1,34 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# My Fast Food
 
-## Getting Started
+*Responsive application made with Next.Js and Tailwind for managing a fast food website.*
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Application Desing
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### *Home page*
+![Home Image](git-image/image1.png)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Home page of the application.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### *Categories page*
+![Categories Image](git-image/image2.png)
 
-## Learn More
+Categories page with options to choose.
 
-To learn more about Next.js, take a look at the following resources:
+### *Products page*
+![Products Image](git-image/image3.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Products page with the list of products.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### *Single Product page*
+![Single Product Image](git-image/image4.png)
 
-## Deploy on Vercel
+Page of a single product.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### *Cart page*
+![Cart Image](git-image/image5.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Cart page showing all items in cart.
+
+### *Login page*
+![Login Image](git-image/image6.png)
+
+Page for logging in.
+
+### *Orgers page*
+![Orgers Image](git-image/image7.png)
+
+Page where you can see all of your orders.
+
+## Commands
+
+Run the application using command *npm run dev*.
